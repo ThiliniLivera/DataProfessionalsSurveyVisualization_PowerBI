@@ -1,1 +1,1 @@
-In this project I used Microsoft PowerBI to create a data visualization showscasing how different Data Professionals respond to a given survey about their work. I have used the dataset provided for this project.
+In this project I used Microsoft PowerBI to create a data visualization showscasing how different Data Professionals respond to a given survey about their work. I have provided the dataset I used for this project.
